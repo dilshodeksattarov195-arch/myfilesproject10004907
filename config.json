@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfelete",
+        "uuid": 25830448,
+        "checksum": "zopfz"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
